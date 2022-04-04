@@ -1,0 +1,19 @@
+{
+    "name": "timedoor/image-processing",
+    "description": "Images Processing Module",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Timedoor\\ImageProcessing\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "I Putu Bagus Purnama Yasa",
+            "email": "yasapurnama@timedoor.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
