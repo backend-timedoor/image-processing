@@ -1,8 +1,8 @@
 # Laravel Image Processing
 
-[![Latest Stable Version](http://poser.pugx.org/backend-timedoor/image-processing/v)](https://packagist.org/packages/backend-timedoor/image-processing)
-[![Total Downloads](http://poser.pugx.org/backend-timedoor/image-processing/downloads)](https://packagist.org/packages/backend-timedoor/image-processing)
-[![License](http://poser.pugx.org/backend-timedoor/image-processing/license)](https://packagist.org/packages/backend-timedoor/image-processing)
+[![Latest Stable Version](http://poser.pugx.org/timedoor/image-processing/v)](https://packagist.org/packages/timedoor/image-processing)
+[![Total Downloads](http://poser.pugx.org/timedoor/image-processing/downloads)](https://packagist.org/packages/timedoor/image-processing)
+[![License](http://poser.pugx.org/timedoor/image-processing/license)](https://packagist.org/packages/timedoor/image-processing)
 
 ![image-processing](https://user-images.githubusercontent.com/79293259/165252153-e0b74f58-b7a0-4e83-ab59-7f1b626b5a76.gif)
 
