@@ -1,0 +1,9 @@
+#imgproc-edit, #imgproc-container, #imgproc-cropper-actions, 
+#imgproc-cropper-aspectratio, #imgproc-compressor-options, #imgproc-action {
+    display: none;
+}
+.imgproc-edit-icon {
+    position: absolute;
+    top: 4px;
+    right: 18px;
+}

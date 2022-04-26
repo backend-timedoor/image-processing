@@ -1,11 +1,18 @@
 {
     "name": "timedoor/image-processing",
-    "description": "Images Processing Module",
+    "description": "Laravel Image Processing Module",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
             "Timedoor\\ImageProcessing\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Timedoor\\ImageProcessing\\ImageProcessingServiceProvider"
+            ]
         }
     },
     "authors": [
