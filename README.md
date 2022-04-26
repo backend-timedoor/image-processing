@@ -18,7 +18,12 @@ Manipulate crop or resize image before upload to server.
 5. The resource assets & componenets will be transfered to your project
 
 
-## Contribute
-Just submit pull request, your contributions are always welcomed!
-## Credits
-This project was inspired by [ajaxray's](https://github.com/ajaxray) and using [markpdf](https://github.com/ajaxray/markpdf) as depedencies.
+## Contributing
+![contributions-wellcome](https://user-images.githubusercontent.com/12730759/150999538-d6872478-96ab-42d6-bb58-0ae443f514c8.svg)
+
+Contributions are always welcome!
+
+
+## License
+
+Licensed under the MIT License, see [LICENSE](LICENSE) for more information.
